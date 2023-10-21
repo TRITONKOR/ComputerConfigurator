@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È‘£®8¢ÙÇµ1
+K
+java:S1068")Remove this unused "cores" private field.(¦û¶¡üÿÿÿÿ8ÿŠµ1
+M
+java:S1068"+Remove this unused "threads" private field.(Ú¬ÿÚüÿÿÿÿ8°ÙÇµ1

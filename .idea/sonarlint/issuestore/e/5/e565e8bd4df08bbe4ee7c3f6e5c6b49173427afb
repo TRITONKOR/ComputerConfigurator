@@ -1,0 +1,11 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ†Úî8¢¸µ1
+U
+java:S5993
+"9Change the visibility of this constructor to "protected".(ÛÆ­g8¦¸µ1
+N
+java:S1068",Remove this unused "capacity" private field.(òéÃúûÿÿÿÿ8§¸µ1
+R
+java:S1068"0Remove this unused "readingSpeed" private field.(ğÌŞÅûÿÿÿÿ8§¸µ1
+M
+java:S1068"0Remove this unused "writingSpeed" private field.(Ÿè¤8©¸µ1
